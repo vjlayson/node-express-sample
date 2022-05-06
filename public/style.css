@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: beige;
+}
+
+header{
+    text-align: center;
+    background-color: skyblue;
+    font-size: large;
+}
+
+form{
+    display: inline-block;
+    width: 45%;
+    margin: 20px;
+}
